@@ -1,15 +1,15 @@
 export const Footer = () => {
     return (
-        <footer className="text-gray-600 body-font">
+        <footer className="text-[#fffbd5] body-font">
             <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
-                <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+                <a className="flex title-font font-medium items-center md:justify-start justify-center text-[#fffbd5]">
                     <span className="ml-3 text-xl">Psy Tech</span>
                 </a>
-                <p className="text-sm text-gray-900 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-slate-900 sm:py-2 sm:mt-0 mt-4">
+                <p className="text-sm text-[#fffbd5] sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-slate-900 sm:py-2 sm:mt-0 mt-4">
                     © 2023 Psy Tech —
                     <a
                         href="https://twitter.com/psytech.io"
-                        className="text-gray-800 ml-1"
+                        className="text-[#fffbd5] ml-1"
                         rel="noopener noreferrer"
                         target="_blank"
                     >
